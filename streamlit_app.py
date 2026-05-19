@@ -21,7 +21,7 @@ Two (or more) newline characters in a row will result in a hard return.
 '''
 st.markdown(multi)
 
- def tambah(a, b):
+def tambah(a, b):
     return a + b
 
 def kurang(a, b):
